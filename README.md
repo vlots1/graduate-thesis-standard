@@ -8,7 +8,7 @@
 - 北京师范大学学位论文 Word 参考模板（一）
 - 北京师范大学学位论文 LaTeX 参考模板
 
-本项目不附带上述学校材料。使用者应从学校正式渠道（http://ss.graduate.bnu.edu.cn/core/ucontent/page/xw_dbclxz）取得最新版本，并确认本单位是否有补充要求。
+本项目不附带上述学校材料。使用者应从学校正式渠道（http://ss.graduate.bnu.edu.cn/core/ucontent/page/xw_dbclxz） 取得最新版本，并确认本单位是否有补充要求。
 
 ## 能做什么
 
