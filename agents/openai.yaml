@@ -1,0 +1,4 @@
+interface:
+  display_name: "BNU Thesis Standard"
+  short_description: "Write and audit BNU graduate theses"
+  default_prompt: "Use $graduate-thesis-standard to prepare a BNU graduate thesis section or audit a completed thesis."
